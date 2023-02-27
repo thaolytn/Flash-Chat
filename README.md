@@ -2,7 +2,7 @@
 An iOS project that simulates a simple, two-user messaging app. 
 
 
-## Project Demo
+## Project Screenshots
 ![Demo](https://user-images.githubusercontent.com/20148851/221500473-b51a03b0-8996-48af-86f8-387e31bdbf98.png)
 
 
