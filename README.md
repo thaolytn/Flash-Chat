@@ -11,7 +11,7 @@ An iOS project that simulates a simple, two-user messaging app.
 - 🍫 CLTypingLabel
 - 🪟 MVC
 - ☁️ Firebase
-- 
+  
 
 ## Setup
 1. To run this project, install it locally using Terminal...
